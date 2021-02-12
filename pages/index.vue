@@ -105,11 +105,12 @@ export default Vue.extend({
 
 /* Modal Content/Box */
 .modal-content {
-  background-color: #fefefe;
+  background-color: transparent;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
-  border: 1px solid #888;
+  border: none;
   width: 80%; /* Could be more or less, depending on screen size */
+  box-shadow: none;
 }
 
 /* The Close Button */
