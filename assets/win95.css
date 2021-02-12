@@ -12,6 +12,9 @@ body {
   background: teal;
   color: white;
   padding-bottom: 28px;
+  background-image: url(/phils_banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .bg-cloud {
   background-image: url(/clouds2.jpg);
