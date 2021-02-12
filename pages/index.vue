@@ -41,7 +41,7 @@
                     <div class="card-body">
                         <ul class="list-unstyled mt-3 mb-4">
                             <li>Hi, ich bin Phil</li>
-                            <li>Twitch streamer aus Würzburg</li>
+                            <li>Twitch Streamer aus Würzburg</li>
                         </ul>
                         <div class="btn-group btn-block" role="group" aria-label="Basic example">
                             <a class="btn btn-secondary" href="https://www.twitch.tv/philsbude">
@@ -65,7 +65,7 @@
  
   <!-- Modal content -->
   <div class="modal-content">
-    <img src="ThatMan2.gif">
+    <img class="modal-img" src="ThatMan2.gif">
   </div>
 
 </div>
@@ -127,4 +127,10 @@ export default Vue.extend({
   text-decoration: none;
   cursor: pointer;
 } 
+
+.modal-img {
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
 </style>
