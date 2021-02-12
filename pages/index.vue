@@ -18,9 +18,7 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#"
-              >Home <span class="sr-only">(current)</span></a
-            >
+            <a class="nav-link" href="#">Home</a>
           </li>
 
           <li class="nav-item dropdown">
@@ -83,6 +81,12 @@
                   href="https://www.instagram.com/phils_bude/"
                 >
                   Instagram
+                </a>
+                <a
+                  class="btn btn-secondary"
+                  href="https://discord.gg/dFjW67RTa2"
+                >
+                  Discord
                 </a>
               </div>
             </div>
