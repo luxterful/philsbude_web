@@ -61,7 +61,7 @@
             </div>
         </div>
     </div>
-    <div id="myModal" class="modal open" @click="maMan">
+    <div id="myModal" class="modal" @click="maMan">
 
   <!-- Modal content -->
   <div class="modal-content">
