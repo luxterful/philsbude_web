@@ -62,7 +62,7 @@
         </div>
     </div>
     <div id="myModal" class="modal" @click="maMan">
-
+ 
   <!-- Modal content -->
   <div class="modal-content">
     <img src="ThatMan2.gif">
